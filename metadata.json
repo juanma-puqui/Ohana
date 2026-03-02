@@ -1,0 +1,5 @@
+{
+  "name": "Stock & Sales Manager",
+  "description": "A simple app to manage product stock and sales from an Excel template with large, touch-friendly buttons.",
+  "requestFramePermissions": []
+}
